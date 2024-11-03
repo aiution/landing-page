@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name1": "Chatbot",
+        "name1": "AI Chatbot",
         "name2": "Services",
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",

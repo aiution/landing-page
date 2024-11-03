@@ -29,32 +29,32 @@
         {
             "index": 1,
             "label": "Consultation",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "content": "We start with an in-depth consultation to understand your needs, business goals, and target audience."
         },
         {
             "index": 2,
             "label": "Research",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "content": "A thorough research phase ensures our solutions are tailored specifically for your business needs."
         },
         {
             "index": 3,
             "label": "Implementation",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "content": "We handle the technical setup and integration, ensuring a seamless addition to your operations."
         },
         {
             "index": 4,
             "label": "Optimization",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "content": "Regular monitoring and refinement for continuous improvement and alignment with your business goals."
         },
         {
             "index": 5,
             "label": "Reporting",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "content": "Track your success with detailed analytics and reports, making it easy to see the impact of our solutions."
         },
         {
             "index": 6,
             "label": "Improvement",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "content": "Ongoing support to ensure your solutions evolve with your business."
         }
     ]
 }
