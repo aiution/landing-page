@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "name1": "Python Integrated",
+        "name1": "AI Integrated Dashboard",
         "name2": "System",
         "background": "h-[310px] p-12 bg-black rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
         "arrow": "./services/aw.svg",
@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "name1": "Course",
+        "name1": "AI Course",
         "name2": "Creation",
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
