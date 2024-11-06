@@ -8,7 +8,7 @@ const blogCollection = defineCollection({
     authImage: z.string(),
     image: z.string(),
     summary: z.string(),
-    type: z.enum(['Article', 'Tutorial']),
+    type: z.enum(['Article', 'Tutorial','Our Services']),
   }),
 });
 
