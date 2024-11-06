@@ -2,7 +2,7 @@
 title: 'Security and Compliance Solutions: Protecting Your Digital Assets'
 pubDate: 2024-01-17
 author: 'Shivam Maurya'
-authImage: 'https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/bonnie-green.png'
+authImage: 'https://media.licdn.com/dms/image/v2/D5603AQFrtcpLzg7KuQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1700206723492?e=1736380800&v=beta&t=zR7jQx-0QZMpLI3gI76HoEdyzyUgV_HjEMOA2_IkasE'
 image: 'image3.png'
 slug: security-and-compliance-solutions
 summary: "Comprehensive security and compliance solutions to protect your business from digital threats while ensuring regulatory compliance."
