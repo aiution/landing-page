@@ -5,7 +5,7 @@
         "name2": "Engagement",
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
-        "link": "./",
+        "link": "/content/blog/ai-driven-customer-engagement.md",
         "image": "./services/01.svg"
     },
     {
