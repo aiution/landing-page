@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "name1": "AI Chatbot",
-        "name2": "Services",
+        "name1": "AI-Driven Customer",
+        "name2": "Engagement",
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
         "link": "./",
@@ -10,8 +10,8 @@
     },
     {
         "id": 2,
-        "name1": "Automation",
-        "name2": "Services",
+        "name1": "Automation and Workflow",
+        "name2": "Optimization",
         "background": "h-[310px] p-12 bg-lime rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
         "link": "./",
@@ -19,8 +19,8 @@
     },
     {
         "id": 3,
-        "name1": "AI Integrated Dashboard",
-        "name2": "System",
+        "name1": "AI-Powered Training and",
+        "name2": "Development",
         "background": "h-[310px] p-12 bg-black rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
         "arrow": "./services/aw.svg",
         "link": "./",
@@ -28,8 +28,8 @@
     },
     {
         "id": 4,
-        "name1": "AI Course",
-        "name2": "Creation",
+        "name1": "Predictive Analytics and",
+        "name2": "Business Intelligence",
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
         "link": "./",
@@ -37,8 +37,8 @@
     },
     {
         "id": 5,
-        "name1": "Mentoring and",
-        "name2": "Consultation",
+        "name1": "Security and Compliance",
+        "name2": "Solutions",
         "background": "h-[310px] p-12 bg-lime rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
         "link": "./",
@@ -46,8 +46,8 @@
     },
     {
         "id": 6,
-        "name1": "SMEs",
-        "name2": "Solution",
+        "name1": " Flexible AI Voice & ",
+        "name2": "Video Solutions",
         "background": "h-[310px] p-12 bg-black rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
         "arrow": "./services/aw.svg",
         "link": "./",
