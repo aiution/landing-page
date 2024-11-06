@@ -32,7 +32,7 @@ Our personalized learning solutions incorporate a variety of resources including
 - Our AI tools analyze learner profiles and behavior to provide personalized recommendations, helping employees progress at their own pace.
 - We offer continuous support and updates to ensure that the learning experience remains relevant and effective.
 
-If you are looking to provide a more personalized learning experience for your employees, **contact us today for a free consultation** to explore how our personalized learning platforms can transform your training programs. [Request a Quote](#).
+If you are looking to provide a more personalized learning experience for your employees, **contact us today for a free consultation** to explore how our personalized learning platforms can transform your training programs. [Request a Quote](https://aiution.fillout.com/t/iS9jRTekQbus).
 
 ### 2. Skills Assessment and Mentorship Programs: Empowering Growth and Development
 
@@ -51,7 +51,7 @@ Our AI-powered assessment tools help identify skill gaps and suggest relevant tr
 - We integrate AI-driven assessments with mentorship programs to provide employees with actionable insights and real-time support.
 - Our AI tools continuously track employee progress, ensuring that each learner receives the guidance and resources they need to succeed.
 
-If you're ready to empower your employees with advanced skills assessments and mentorship programs, **don’t hesitate to request a quote** or **contact us for a free consultation**. [Get in Touch](#).
+If you're ready to empower your employees with advanced skills assessments and mentorship programs, **don’t hesitate to request a quote** or **contact us for a free consultation**. [Get in Touch](https://aiution.fillout.com/t/iS9jRTekQbus).
 
 ## Why Choose Aiution for AI-Powered Training and Development?
 
