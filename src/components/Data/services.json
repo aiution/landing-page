@@ -5,7 +5,7 @@
         "name2": "Engagement",
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
-        "link": "./articles/AI-Powered-Training-and-Development",
+        "link": "./articles/ai-driven-customer-engagement",
         "image": "./services/01.svg"
     },
     {
@@ -14,7 +14,7 @@
         "name2": "Optimization",
         "background": "h-[310px] p-12 bg-lime rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
-        "link": "./",
+        "link": "./articles/Automation-and-Workflow-Optimization",
         "image": "./services/02.svg"
     },
     {
@@ -23,7 +23,7 @@
         "name2": "Development",
         "background": "h-[310px] p-12 bg-black rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
         "arrow": "./services/aw.svg",
-        "link": "./",
+        "link": "./articles/AI-Powered-Training-and-Development",
         "image": "./services/03.svg"
     },
     {
@@ -32,7 +32,7 @@
         "name2": "Business Intelligence",
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
-        "link": "./",
+        "link": "./articles/predictive-analytics-business-intelligence",
         "image": "./services/04.svg"
     },
     {
@@ -41,16 +41,16 @@
         "name2": "Solutions",
         "background": "h-[310px] p-12 bg-lime rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
-        "link": "./",
+        "link": "./articles/security-and-compliance-solutions",
         "image": "./services/05.svg"
     },
     {
         "id": 6,
-        "name1": " Flexible AI Voice & ",
+        "name1": "Flexible AI Voice &",
         "name2": "Video Solutions",
         "background": "h-[310px] p-12 bg-black rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
         "arrow": "./services/aw.svg",
-        "link": "./",
+        "link": "./articles/flexible-ai-voice-video-solutions",
         "image": "./services/06.svg"
     }
 ]
