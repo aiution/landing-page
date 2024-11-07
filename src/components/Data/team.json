@@ -3,10 +3,10 @@
     [
         {
             "title": "CEO and Founder",
-            "name": "John Smith",
-            "description": "10+ years of experience in digital marketing. Expertise in SEO, PPC, and content strategy",
-            "profile": "/team/c1.png",
-            "link": "/"
+            "name": "Shivam Maurya",
+            "description": "3+ years of experience in Artificial Intelligence.",
+            "profile": "/team/c1.jpg",
+            "link": "https://shivammaurya.com"
         },
         {
             "title": "Director of Operations",
