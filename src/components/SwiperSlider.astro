@@ -1,14 +1,35 @@
 ---
 const slides = [
-  { index: 1, name: "Shivam Maurya", description: "AI Engineer" },
-  { index: 2, name: "Ana Banana", description: "Marketing dierector at XYZ" },
+  { 
+    index: 1, 
+    name: "Shivam Maurya", 
+    description: "Marketing director at IT Solution",
+    testimonial: "We have been working with Positivus for the past year and have seen a significant increase in website traffic and leads as a result of their efforts."
+  },
+  { 
+    index: 2, 
+    name: "Rajesh Kumar", 
+    description: "Founder at Tech Company",
+    testimonial: "The team is professional, responsive, and truly cares about the success of our business. Highly recommended!"
+  },
   {
     index: 3,
     name: "Camilo Corintio",
-    description: "Marketing dierector at XYZ",
+    description: "Marketing director at Somewhere Pvt Ltd",
+    testimonial: "Outstanding results! Our online presence has grown tremendously since working with this amazing team."
   },
-  { index: 4, name: "Karla Kaz", description: "Marketing dierector at XYZ" },
-  { index: 5, name: "Johanna Jana", description: "Marketing dierector at XYZ" },
+  { 
+    index: 4, 
+    name: "Kajal Sinha", 
+    description: "CMO at Company LLP",
+    testimonial: "Their strategic approach and attention to detail have transformed our digital marketing efforts completely."
+  },
+  { 
+    index: 5, 
+    name: "Johanna Jana", 
+    description: "Marketing director at XYZ",
+    testimonial: "Exceptional service and remarkable results. They've exceeded our expectations in every way possible."
+  },
 ];
 ---
 
@@ -33,13 +54,10 @@ const slides = [
         >
           <div class="flex flex-col justify-center items-center py-[48px] px-6 sm:px-[52px]">
             <p class="bubble">
-              "We have been working with Positivus for the past year and have
-              seen a significant increase in website traffic and leads as a
-              result of their efforts. The team is professional, responsive, and
-              truly cares about the success of our business. We highly recommend
-              Positivus to any company looking to grow their online presence."
+              "{slide.testimonial} <br><br>[THIS IS ONLY FOR DEMO]"
             </p>
           </div>
+          
           <div class="w-full px-10 sm:px-20 ">
             <div class="text-lime text-base md:text-xl font-medium">{slide.name}</div>
             <div>{slide.description}</div>

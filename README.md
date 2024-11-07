@@ -1,18 +1,18 @@
-# Positivus - Digital Marketing Agency Landing Page
+# Aiution - Digital Marketing Agency Landing Page
 
-Introducing "Positivus" - a stunning and versatile Astro theme designed for digital marketing agencies.
+Introducing "Aiution" - a stunning and versatile Astro theme designed for digital marketing agencies.
 
-Built with clean, modern aesthetics and leveraging the power of Astro and Tailwind, Positivus empowers you to craft a captivating website that showcases your agency's expertise and fosters trust with potential clients.
+Built with clean, modern aesthetics and leveraging the power of Astro and Tailwind, Aiution empowers you to craft a captivating website that showcases your agency's expertise and fosters trust with potential clients.
 
 [![Static Badge](https://img.shields.io/badge/UI%2FUX-Olga-blue)](https://www.figma.com/@olgaaverchenko) [![View Demo](https://img.shields.io/badge/Develop-Manul_Thanura-red)](https://lk.linkedin.com/in/manulthanura)
-[![Static Badge](https://img.shields.io/badge/View_Demo-green)](https://positivustheme.vercel.app)
+[![Static Badge](https://img.shields.io/badge/View_Demo-green)](https://Aiutiontheme.vercel.app)
 [![Static Badge](https://img.shields.io/badge/Astro-orange)](https://astro.build/)
 
 ![Cover](./public/cover.png)
 
 ## Theme Features
 
-Leveraging the power of Astro and Tailwind CSS, Positivus offers:
+Leveraging the power of Astro and Tailwind CSS, Aiution offers:
 
 - Clean and modern design.
 - SEO-friendly.
