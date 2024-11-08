@@ -9,21 +9,31 @@ import { ViewTransitions } from 'astro:transitions';
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="description" content="Astro description" />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
-    <title>Aiution -Your Partner in AI Solutions</title>
+    <title>Aiution - Your Partner in AI Solutions</title>
     <meta
       name="description"
       content="Explore Aiution's advanced AI solutions designed to enhance customer engagement, streamline workflows, and boost business intelligence. Our services include AI-driven chatbots, dynamic personalization, workflow automation, and predictive analytics. Transform your business with secure, compliant AI solutions and empower your team with AI-powered training tools and flexible voice & video add-ons. Book a consultation with Aiution today to revolutionize your business with AI."
     />
-	<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
-  <ViewTransitions />
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
+    <ViewTransitions />
+   <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8EETQ6JQNV"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-8EETQ6JQNV');
+  </script>
   </head>
   <body class="bg-white font-SpaceGrotesk">
     <Navbar />
-    <slot />
-    <Footer/>
+    <main>
+      <slot />
+    </main>
+    <Footer />
   </body>
 </html>
